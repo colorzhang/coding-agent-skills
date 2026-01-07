@@ -1,0 +1,22 @@
+{
+    "name": "coding-agent-skills",
+    "owner": {
+        "name": "colorzhang",
+        "email": "colorzhang@gmail.com"
+    },
+    "metadata": {
+        "description": "Coding Agent skills",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "aidlc-workflows-skill",
+            "description": "AI-DLC is an intelligent software development workflow that adapts to your needs, maintains quality standards, and keeps you in control of the process.",
+            "source": "./",
+            "strict": false,
+            "skills": [
+                "./skills/aidlc-workflows"
+            ]
+        }
+    ]
+}
