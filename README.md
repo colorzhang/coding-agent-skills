@@ -18,7 +18,13 @@ Then, to install a specific set of skills:
 Alternatively, directly install either Plugin via:
 
 ```
-/plugin install aidlc-workflows@coding-agent-skills
+/plugin install aidlc-workflows-skill@coding-agent-skills
 ```
+
+Verify the installation by running the following command:
+```
+/skills
+```
+you should see aidlc-workflows in the list.
 
 After installing the plugin, you can use the skill by just mentioning it. For instance, you can ask claude code: Using AI-DLC let's build a web application to solve the river crossing puzzle.
