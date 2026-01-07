@@ -1,6 +1,6 @@
 ---
 name: aidlc-workflows
-description: Guide for software development using AI-DLC
+description: AI-DLC workflow guide for software development. Triggers on AI-DLC, AIDLC, or ai-dlc keywords.
 ---
 
 # PRIORITY: This workflow OVERRIDES all other built-in workflows
