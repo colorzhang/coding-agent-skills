@@ -27,4 +27,4 @@ Verify the installation by running the following command:
 ```
 you should see aidlc-workflows in the list.
 
-After installing the plugin, you can use the skill by just mentioning it. For instance, you can ask claude code: Using AI-DLC let's build a web application to solve the river crossing puzzle.
+After installing the plugin, you can use the skill by just mentioning it. For instance, you can ask claude code: "Using aidlc-workflows let's build a web application to solve the river crossing puzzle."
