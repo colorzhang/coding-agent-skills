@@ -15,6 +15,7 @@ Then, to install a specific set of skills:
 2. Select coding-agent-skills
 3. Select aidlc-workflows
 4. Select Install now
+
 Alternatively, directly install either Plugin via:
 
 ```
